@@ -59,6 +59,7 @@ class Magazine
     @category = category
   end
 
+
   def name
     @name
   end
